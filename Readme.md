@@ -30,23 +30,23 @@
 ## Budget Manager Extension
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/Demo-Images-Videos/chrome-extension.jpg" width="300px" height="auto" />
+  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/BudgetManager/icon128.png" />
 </p>
 
 ## PageFontStyle Extension
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/Demo-Images-Videos/chrome-extension.jpg" width="300px" height="auto" />
+  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/PageFontStyle/icon128.png" />
 </p>
 
 ## Wikit Extension
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/Demo-Images-Videos/chrome-extension.jpg" width="300px" height="auto" />
+  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/Wikit/icon128.png" />
 </p>
 
 ## SpeakIt Extension
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/Demo-Images-Videos/chrome-extension.jpg" width="300px" height="auto" />
+  <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/SpeakIt/icon128.png" />
 </p>
