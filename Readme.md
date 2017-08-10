@@ -25,6 +25,9 @@ A hello world extension!
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/HelloWorld/icon128.png"/>
 </p>
+## Live Demo
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://chrome.google.com/webstore/detail/hello-world-demo/djgnebfaligoncobimfdflekagaehmih)
+
 
 
 ## Budget Manager Extension
@@ -33,6 +36,9 @@ This extension tracks your overall spendings.
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/BudgetManager/icon128.png" />
 </p>
+## Live Demo
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://chrome.google.com/webstore/detail/budget-manager/bnfiedcnljoamomnmcjpbolikmdpgecd)
+
 
 ## PageFontStyle Extension
 This extension changes the font style in a specific page.
@@ -40,6 +46,9 @@ This extension changes the font style in a specific page.
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/PageFontStyle/icon128.png" />
 </p>
+## Live Demo
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://chrome.google.com/webstore/detail/pagefontstyle/phckojpbinbeanjnodbheajnboiabghb)
+
 
 ## Wikit Extension
 Search Wikipedia on the go!
@@ -47,6 +56,10 @@ Search Wikipedia on the go!
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/Wikit/icon128.png" />
 </p>
+## Live Demo
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://chrome.google.com/webstore/detail/wikit/cdhebpnhbjnakbnhelfmbgdddilfbkgi)
+
+
 
 ## SpeakIt Extension
 Speak the selected text
@@ -54,3 +67,5 @@ Speak the selected text
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Chrome-Extensions/blob/master/SpeakIt/icon128.png" />
 </p>
+## Live Demo
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://chrome.google.com/webstore/detail/speakit/ogcmdndkjibojdigkjpccjiekcdfdhlb)
